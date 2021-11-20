@@ -1,5 +1,6 @@
 SRC = main.c fcts.c
 
+
 PRO_NAME = pltt
 
 all:
