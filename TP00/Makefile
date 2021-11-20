@@ -2,6 +2,7 @@ SRC = msb.c nthbit.c main.c
 OOOS = msb.o nthbit.o main.o
 LIB_NAME = bitwise.a
 
+
 all:$(LIB_NAME)
 
 $(LIB_NAME):
